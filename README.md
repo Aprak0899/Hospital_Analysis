@@ -3,6 +3,9 @@
 ## 📌 Project Overview  
 This project focuses on analyzing and visualizing the performance of a hospital's **emergency room (ER)** through interactive **Power BI dashboards**. The dashboards provide insights into **patient volume, wait times, satisfaction scores, and referral trends**, helping stakeholders optimize operations and enhance patient care.
 
+
+![Hospital Dashboard](https://github.com/Aprak0899/Hospital_Analysis/blob/main/Images/Home.png)
+
 ## 📊 Key Features  
 - 📅 **Monthly View Dashboard** – Tracks key metrics over time, highlighting peak days and operational challenges.  
 - 📈 **Consolidated View Dashboard** – Summarizes performance metrics over customizable date ranges.  
